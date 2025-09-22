@@ -12,5 +12,4 @@ Create a snapshot from the staging area.
 ## git push
 Upload local commits to the remote (origin).
 
-## git mv <old> <new>
-Rename or move a file and stage the rename in one step.
+
