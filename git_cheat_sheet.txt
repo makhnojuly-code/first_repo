@@ -1,0 +1,8 @@
+git add <files>
+Select files into the staging area.
+git status
+Show what changed and what is staged.
+git commit -m "message"
+Create a snapshot from the staging area with a message.
+git push
+Upload local commits to the remote (origin).
