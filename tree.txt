@@ -1,162 +1,23 @@
-.
-./.git
-./.git/COMMIT_EDITMSG
-./.git/FETCH_HEAD
-./.git/HEAD
-./.git/ORIG_HEAD
-./.git/branches
-./.git/config
-./.git/description
-./.git/hooks
-./.git/hooks/applypatch-msg.sample
-./.git/hooks/commit-msg.sample
-./.git/hooks/fsmonitor-watchman.sample
-./.git/hooks/post-update.sample
-./.git/hooks/pre-applypatch.sample
-./.git/hooks/pre-commit.sample
-./.git/hooks/pre-merge-commit.sample
-./.git/hooks/pre-push.sample
-./.git/hooks/pre-rebase.sample
-./.git/hooks/pre-receive.sample
-./.git/hooks/prepare-commit-msg.sample
-./.git/hooks/push-to-checkout.sample
-./.git/hooks/update.sample
-./.git/index
-./.git/info
-./.git/info/exclude
-./.git/logs
-./.git/logs/HEAD
-./.git/logs/refs
-./.git/logs/refs/heads
-./.git/logs/refs/heads/master
-./.git/logs/refs/remotes
-./.git/logs/refs/remotes/origin
-./.git/logs/refs/remotes/origin/HEAD
-./.git/logs/refs/remotes/origin/feature
-./.git/logs/refs/remotes/origin/feature/markdown-cheatsheet
-./.git/logs/refs/remotes/origin/master
-./.git/objects
-./.git/objects/01
-./.git/objects/01/ac269c6ea8e3adced93fee1b2c7cc34c012c0a
-./.git/objects/02
-./.git/objects/02/984e20e36d690d552ecda887963d046b3668ea
-./.git/objects/05
-./.git/objects/05/a72eebec7f20cabeabce932c0bae3ac5de8e3b
-./.git/objects/08
-./.git/objects/08/bd4ea3f0951404b71952b1b50539e6a8f3d954
-./.git/objects/09
-./.git/objects/09/f69ca5697a95e00e0fcb319e8bb715dac2c5a5
-./.git/objects/14
-./.git/objects/14/26775f1f04be81801d4de8593290a879932ac5
-./.git/objects/19
-./.git/objects/19/25b836ad55bc2fa5918f0e9ae73ec50b635fa3
-./.git/objects/1a
-./.git/objects/1a/3c2698e95566b0a54087a3de6db4792e38b844
-./.git/objects/1a/44989611a3739f48c174b8995d2360dbfafe15
-./.git/objects/26
-./.git/objects/26/31d2ad1d3144e92efb156d91c2ce5d61d236bc
-./.git/objects/30
-./.git/objects/30/66ac9506ac64d1c82445823b4a20bcdeb3c7f1
-./.git/objects/41
-./.git/objects/41/2c99753c1af31d2427a7373325af6bbc32787d
-./.git/objects/43
-./.git/objects/43/fc3863a9b2d83223bb5f1fb409fe7f96521515
-./.git/objects/4a
-./.git/objects/4a/9e8f77d20fba8cbd409b04a8170bfb254fcfe0
-./.git/objects/50
-./.git/objects/50/04a774571bc863684acddd70c57fbdb70985fd
-./.git/objects/54
-./.git/objects/54/7d09103303019a2ebc06b0a7a1a177484913f9
-./.git/objects/56
-./.git/objects/56/ddc4a0bac0bc215a84c3c08fd4cb155c9dcbaa
-./.git/objects/5e
-./.git/objects/5e/f3e9a65515f46034301c2acac5ed4c0b16fe4a
-./.git/objects/70
-./.git/objects/70/df983789225a1037fdca26209c67939ad75625
-./.git/objects/77
-./.git/objects/77/80588dfb6dcd3ceef3661ad4d2e7275736a8e1
-./.git/objects/7d
-./.git/objects/7d/4a328a2fe803c4e5b1915739d41693fa54449f
-./.git/objects/7e
-./.git/objects/7e/701bb005b8afc44c55ef0b2fc1e2489f0d40c9
-./.git/objects/82
-./.git/objects/82/ecf57a393df0d56fadaff387b8f6f677c729aa
-./.git/objects/85
-./.git/objects/85/c155f79a8caa8554cdf03496640687e2b0acc1
-./.git/objects/86
-./.git/objects/86/c4685773ce9c45c6f56ff40fc244710dc64b89
-./.git/objects/86/cf001ccc37a6dffbebf069bd752d44884d58f3
-./.git/objects/87
-./.git/objects/87/d38a63f32d602bbf2f90de0f45dbfa79ec7b70
-./.git/objects/90
-./.git/objects/90/9fe896933f10f48f00ee6b8024fac1bd249d70
-./.git/objects/91
-./.git/objects/91/beae739735ab226ec68081c6154d59adce1fc8
-./.git/objects/af
-./.git/objects/af/fc85ca92821267bcdd392166e1244114809907
-./.git/objects/b2
-./.git/objects/b2/f7e8189a7efb528c5e677ed29af3234640e914
-./.git/objects/b3
-./.git/objects/b3/8671c29a888378eecb06034acfc4537b63ce2a
-./.git/objects/b5
-./.git/objects/b5/20b474b87dcab67dd2307fac39366c917ffca2
-./.git/objects/b8
-./.git/objects/b8/d51d440ab5acaf18bfa295d0e144f67df4405b
-./.git/objects/bf
-./.git/objects/bf/14480b7031f128826d23e5827e2de73ef2b664
-./.git/objects/c3
-./.git/objects/c3/c76cdfc7f441374b68792f4d1279bc15d9bfe9
-./.git/objects/d7
-./.git/objects/d7/ff9ac990c3fab5868b3f5792de81cd61cb5705
-./.git/objects/d8
-./.git/objects/d8/2458ac7c2f056d7af4fab947dbf4a5003f21c4
-./.git/objects/d9
-./.git/objects/d9/54755579de4862e56317ebe53e1e612d3dc96b
-./.git/objects/eb
-./.git/objects/eb/b53dc93235ddd292fef61947eacd4e651d2431
-./.git/objects/f5
-./.git/objects/f5/74f11a7fe6344d40a742a34244873739442c96
-./.git/objects/f5/a05f4cf2f049b106e74d5dc0a09c0e96cacb50
-./.git/objects/fc
-./.git/objects/fc/29291bed4fd8a0b7fb4ab284ea0f5a81291944
-./.git/objects/info
-./.git/objects/pack
-./.git/objects/pack/pack-54479b8bf582f1bc28a6dca19a451fe449d9c02d.idx
-./.git/objects/pack/pack-54479b8bf582f1bc28a6dca19a451fe449d9c02d.pack
-./.git/packed-refs
-./.git/refs
-./.git/refs/heads
-./.git/refs/heads/master
-./.git/refs/remotes
-./.git/refs/remotes/origin
-./.git/refs/remotes/origin/HEAD
-./.git/refs/remotes/origin/feature
-./.git/refs/remotes/origin/feature/markdown-cheatsheet
-./.git/refs/remotes/origin/master
-./.git/refs/tags
-./.gitignore
-./README.md
-./anotherfile.txt
-./countLines.sh
-./dir1
-./dir1/file1
-./dir2
-./dir2/file2
-./dir3
-./dir3/bla
-./dir3/blub
-./dir3/blub/AnotherDirectory
-./dir3/file3
-./dirWithAVeryLongName
-./dirWithAVeryLongName/aFile.txt
-./dir_with_a_very_long_underscored_name
-./dir_with_a_very_long_underscored_name/another_file.txt
-./dir_with_a_very_long_underscored_name/filelist.txt
-./dir_with_a_very_long_underscored_name/subdir_with_long_name
-./dir_with_a_very_long_underscored_name/subdir_with_long_name/hello_file.txt
-./git_cheat_sheet.md
-./history.txt
-./markdown_cheatsheet.md
-./mytext.md
-./notes.txt
-./tree.txt
+├── anotherfile.txt
+├── countLines.sh
+├── dir1
+│   └── file1
+├── dir2
+│   └── file2
+├── dir3
+│   ├── bla
+│   ├── blub
+│   │   └── AnotherDirectory
+│   └── file3
+├── dirWithAVeryLongName
+│   └── aFile.txt
+├── dir_with_a_very_long_underscored_name
+│   ├── another_file.txt
+│   ├── filelist.txt
+│   └── subdir_with_long_name
+│       └── hello_file.txt
+├── history.txt
+├── mytext.md
+└── tree.txt
+
+9 directories, 12 files
