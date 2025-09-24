@@ -1,4 +1,4 @@
-Hi, I'm Vulia!  
+Hi, I'm Yuliia!  
 This is my first repository on GitHub.  
 Here I practice **Git**, **GitHub**, and **Markdown**.  
 
